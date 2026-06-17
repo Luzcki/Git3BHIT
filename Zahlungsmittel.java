@@ -1,7 +1,6 @@
 public class Zahlungsmittel {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
-                System.out.println("PRINT BARGELD, World!");
-
+        System.out.println("PRINT BARGELD, World!");
     }
 }
