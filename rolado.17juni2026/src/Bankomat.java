@@ -18,7 +18,7 @@ public class Bankomat {
         selection = sc.nextInt();
 
     }
-
+//wow Andre du hast das supa gemacht
     public String einzahlung(int einzahlung) {
         return einzahlung+" wunderbare Euros wurden eingezahlt";
     }
