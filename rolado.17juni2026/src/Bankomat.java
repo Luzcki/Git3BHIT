@@ -18,6 +18,11 @@ public class Bankomat {
         selection = sc.nextInt();
 
     }
+
+    public String einzahlung(int einzahlung) {
+        return einzahlung+" wunderbare Euros wurden eingezahlt";
+    }
+
     public boolean isKontaktlos() {
         return kontaktlos;
     }
