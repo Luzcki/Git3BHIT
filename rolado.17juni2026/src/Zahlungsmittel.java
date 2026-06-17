@@ -8,6 +8,10 @@ public class Zahlungsmittel {
         neuerBankomat.setKontaktlos(true);
         neuerBankomat.startup();
 
+        Sparschwein neuesSparschwein = new Sparschwein();
+        neuesSparschwein.sparen(50);
+        
+
         System.out.println("Test");
 
         System.out.println("Bageld");
