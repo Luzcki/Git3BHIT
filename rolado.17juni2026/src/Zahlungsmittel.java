@@ -9,5 +9,6 @@ public class Zahlungsmittel {
 
         System.out.println("Test");
 
+        System.out.println("Bageld");
     }
 }
