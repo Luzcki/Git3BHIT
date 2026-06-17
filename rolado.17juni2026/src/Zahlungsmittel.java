@@ -6,9 +6,11 @@ public class Zahlungsmittel {
 
         Bankomat neuerBankomat = new Bankomat();
         neuerBankomat.setKontaktlos(true);
+        neuerBankomat.startup();
 
         System.out.println("Test");
 
         System.out.println("Bageld");
+
     }
 }
