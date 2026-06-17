@@ -8,5 +8,6 @@ public class Zahlungsmittel {
         neuerBankomat.setKontaktlos(true);
 
         System.out.println("Test");
+
     }
 }
